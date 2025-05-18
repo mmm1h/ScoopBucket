@@ -27,8 +27,8 @@
             }
         },
         "hash": {
-            "mode": "download",
-            "url": "https://github.com/gitbobobo/StreamMusic/releases/download/$match1/checksums.txt",
+            "mode": "extract",
+            "url": "",
             "regex": "$sha256\\s+stream_music_$match2.msix"
         }
     }
